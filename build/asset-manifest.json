@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2308e5b5.css",
+    "main.js": "/static/js/main.da979f18.js",
+    "static/media/about1.png": "/static/media/about1.a0b2b4fea0faeaf0deb1.png",
+    "static/media/Sequel100Black-65.ttf": "/static/media/Sequel100Black-65.e4003b0d2f58a56e1166.ttf",
+    "static/media/Sequel100Black-45.ttf": "/static/media/Sequel100Black-45.02ab319b0eed5c5c6406.ttf",
+    "static/media/header1.png": "/static/media/header1.3d8e2a06b35445520526.png",
+    "static/media/header2.png": "/static/media/header2.2bc5f5df1182bfc17b20.png",
+    "static/media/about2.png": "/static/media/about2.0f4ff10efbbe439e5cbd.png",
+    "static/media/about4.png": "/static/media/about4.ab7a5c72059635209d27.png",
+    "static/media/About3.svg": "/static/media/About3.572c9e01c02f147d55ad625419794bb5.svg",
+    "static/media/OpenSea.svg": "/static/media/OpenSea.7e1f5eac5f6060ea76ab231327056371.svg",
+    "static/media/Discord.svg": "/static/media/Discord.04097318e7fae6b6d226488b3aefe17f.svg",
+    "static/media/Roadmap3.svg": "/static/media/Roadmap3.b28910b276acddc66de737bf53c71119.svg",
+    "static/media/Roadmap2.svg": "/static/media/Roadmap2.225d0cec97a9397f820723c931033429.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.658cb6a0b3d06aff0b2fc08458a76ab5.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.44e4a7358de1c288b3d044b826dcf6d0.svg",
+    "static/media/Roadmap4.svg": "/static/media/Roadmap4.ddc151a0c30c0037b676c808346da25a.svg",
+    "static/media/Roadmap1.svg": "/static/media/Roadmap1.dc3eb7a50c7dd0308b8560bedb5f5454.svg",
+    "index.html": "/index.html",
+    "main.2308e5b5.css.map": "/static/css/main.2308e5b5.css.map",
+    "main.da979f18.js.map": "/static/js/main.da979f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2308e5b5.css",
+    "static/js/main.da979f18.js"
+  ]
+}
